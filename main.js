@@ -23,7 +23,7 @@ function headerShadow() {
 }
 /* ----- TYPING EFFECT ----- */
 var typingEffect = new Typed(".typedText",{
-  strings : ["Bazan Institute","CEO"],
+  strings : ["CEO","CEO"],
   loop : true,
   typeSpeed : 100, 
   backSpeed : 80,
